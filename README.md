@@ -29,14 +29,17 @@ I'm Victor. I'm a Flutter & Firebase developer passionate about building mobile 
 ---
 
 ### 📊 GitHub Stats  
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorovec&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorovec&layout=compact&theme=tokyonight)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorovec&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorovec&layout=compact&theme=tokyonight" height="180px"/>
+</div>
 
 ---
 
 ### 🌍 Connect With Me  
 [![LinkedIn: victorovec](https://img.shields.io/badge/LinkedIn-victorovec-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-bekee-420965356)  
-[![Email: victorovec@gmail.com](https://img.shields.io/badge/Email-victorovec@gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorovec@gmail.com)  
+[![Email: victorovec](https://img.shields.io/badge/Email-victorovec-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorovec@gmail.com)  
+
 ---
 
 <p align="center">
