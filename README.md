@@ -36,8 +36,7 @@ I'm Victor. I'm a Flutter & Firebase developer passionate about building mobile 
 
 ### 🌍 Connect With Me  
 [![LinkedIn: victorovec](https://img.shields.io/badge/LinkedIn-victorovec-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-bekee-420965356)  
-[![Email: victorovec](https://img.shields.io/badge/Email-victorovec-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorovec@gmail.com)  
-
+[![Email: victorovec@gmail.com](https://img.shields.io/badge/Email-victorovec@gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorovec@gmail.com)  
 ---
 
 <p align="center">
