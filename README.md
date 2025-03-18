@@ -29,10 +29,8 @@ I'm Victor. I'm a Flutter & Firebase developer passionate about building mobile 
 ---
 
 ### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorovec&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorovec&layout=compact&theme=tokyonight" height="180px"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=victorovec&show_icons=true&theme=tokyonight" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorovec&layout=compact&theme=tokyonight" height="180px"/>
 
 ---
 
