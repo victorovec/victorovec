@@ -16,7 +16,8 @@ I'm Victor. I'm a Flutter & Firebase developer passionate about building mobile 
 
 #### 💻 Programming Languages  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 #### 🚀 Frameworks & Platforms  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
@@ -36,9 +37,13 @@ I'm Victor. I'm a Flutter & Firebase developer passionate about building mobile 
 ---
 
 ### 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-bekee-420965356)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorovec@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-bekee-420965356) : victorovec  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorovec@gmail.com) : victorovec  
 
 ---
 
-### 🔥 iCode 💻 iCreate 🚀 iInnovate ✨  
+<p align="center">
+  <strong>🔥 iCode 💻 iCreate 🚀 iInnovate ✨</strong>
+</p>
+
+---
